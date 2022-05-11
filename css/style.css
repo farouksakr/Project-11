@@ -145,7 +145,7 @@
 
 /* start features */
 
-.features {
+/* .features {
   padding: 30px 0;
 }
 
@@ -165,7 +165,7 @@
 .features p {
   color: #989898;
   margin-bottom: 30px;
-}
+} */
 
 /* end features */
 
@@ -220,7 +220,7 @@
 
 /* start featured work */
 
-.featured-work {
+/* .featured-work {
   padding: 80px 0;
 }
 
@@ -269,13 +269,13 @@
 
 .featured-work .row img {
   width: 100%;
-}
+} */
 
 /* end featured work */
 
 /* start latest post */
 
-.latest-post {
+/* .latest-post {
   padding: 0 0 80px;
 }
 
@@ -308,7 +308,7 @@
 .latest-post .card-link {
   color: #ed1d24;
   font-weight: bold;
-}
+} */
 
 /* end latest post */
 
